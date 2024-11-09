@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gabriel.asturias05234@gmail.com**
 
-- ⚡ Fun fact **ang cute ni Ranma**
+- ⚡ Fun fact **Wala ako Wi-Fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
