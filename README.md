@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Asturias</h1>
-<h3 align="center">Le wannabe game dev</h3>
+<h2 align="center">Game-dev/Back-end Developer from Temu</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soldbeans&label=Profile%20views&color=0e75b6&style=flat" alt="soldbeans" /> </p>
 
