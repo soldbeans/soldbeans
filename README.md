@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soldbeans&label=Profile%20views&color=0e75b6&style=flat" alt="soldbeans" /> </p>
 
-- 🌱 I’m currently **making a game**
+- 🌱 I’m currently **Completing my OJT requirements**
 
 - 📫 How to reach me **gabriel.asturias05234@gmail.com**
 
